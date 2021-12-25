@@ -1,0 +1,36 @@
+[submodule "SwiftPiscine.Day00"]
+	path = SwiftPiscine.Day00
+	url = ./SwiftPiscine.Day00
+[submodule "SwiftPiscine.Day01"]
+	path = SwiftPiscine.Day01
+	url = ./SwiftPiscine.Day01
+[submodule "SwiftPiscine.Day02"]
+	path = SwiftPiscine.Day02
+	url = ./SwiftPiscine.Day02
+[submodule "SwiftPiscine.Day03"]
+	path = SwiftPiscine.Day03
+	url = ./SwiftPiscine.Day03
+[submodule "SwiftPiscine.Day04/MiniTwitter"]
+	path = SwiftPiscine.Day04/MiniTwitter
+	url = ./SwiftPiscine.Day04/MiniTwitter
+[submodule "SwiftPiscine.Day05/MiniMap"]
+	path = SwiftPiscine.Day05/MiniMap
+	url = ./SwiftPiscine.Day05/MiniMap/
+[submodule "SwiftPiscine.Day06/DynamicShapes"]
+	path = SwiftPiscine.Day06/DynamicShapes
+	url = ./SwiftPiscine.Day06/DynamicShapes
+[submodule "SwiftPiscine.Day07/WeatherAppBot"]
+	path = SwiftPiscine.Day07/WeatherAppBot
+	url = ./SwiftPiscine.Day07/WeatherAppBot
+[submodule "SwiftPiscine.Day08/ArticleManager"]
+	path = SwiftPiscine.Day08/ArticleManager
+	url = ./SwiftPiscine.Day08/ArticleManager
+[submodule "SwiftPiscine.Day09/PersonalDiary"]
+	path = SwiftPiscine.Day09/PersonalDiary
+	url = ./SwiftPiscine.Day09/PersonalDiary
+[submodule "SwiftPiscine.Rush00/Intra21_pass"]
+	path = SwiftPiscine.Rush00/Intra21_pass
+	url = ./SwiftPiscine.Rush00/Intra21_pass
+[submodule "SwiftPiscine.Rush01/Rush01"]
+	path = SwiftPiscine.Rush01/Rush01
+	url = ./SwiftPiscine.Rush01/Rush01
