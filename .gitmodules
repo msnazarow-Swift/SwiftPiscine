@@ -1,36 +1,36 @@
 [submodule "SwiftPiscine.Day00"]
 	path = SwiftPiscine.Day00
-	url = ./SwiftPiscine.Day00
+	url = https://github.com/msnazarow-Swift-42piscine/Calculator
 [submodule "SwiftPiscine.Day01"]
 	path = SwiftPiscine.Day01
-	url = ./SwiftPiscine.Day01
+	url = https://github.com/msnazarow-Swift-42piscine/CardsNDecks
 [submodule "SwiftPiscine.Day02"]
 	path = SwiftPiscine.Day02
-	url = ./SwiftPiscine.Day02
+	url = https://github.com/msnazarow-Swift-42piscine/DeathNote
 [submodule "SwiftPiscine.Day03"]
 	path = SwiftPiscine.Day03
-	url = ./SwiftPiscine.Day03
+	url = https://github.com/msnazarow-Swift-42piscine/ImageGalery
 [submodule "SwiftPiscine.Day04/MiniTwitter"]
 	path = SwiftPiscine.Day04/MiniTwitter
-	url = ./SwiftPiscine.Day04/MiniTwitter
+	url = https://github.com/msnazarow-Swift-42piscine/MiniTwitter
 [submodule "SwiftPiscine.Day05/MiniMap"]
 	path = SwiftPiscine.Day05/MiniMap
-	url = ./SwiftPiscine.Day05/MiniMap/
+	url = https://github.com/msnazarow-Swift-42piscine/MiniMap/
 [submodule "SwiftPiscine.Day06/DynamicShapes"]
 	path = SwiftPiscine.Day06/DynamicShapes
-	url = ./SwiftPiscine.Day06/DynamicShapes
+	url = https://github.com/msnazarow-Swift-42piscine/DynamicShapes
 [submodule "SwiftPiscine.Day07/WeatherAppBot"]
 	path = SwiftPiscine.Day07/WeatherAppBot
-	url = ./SwiftPiscine.Day07/WeatherAppBot
+	url = https://github.com/msnazarow-Swift-42piscine/WeatherAppBot
 [submodule "SwiftPiscine.Day08/ArticleManager"]
 	path = SwiftPiscine.Day08/ArticleManager
-	url = ./SwiftPiscine.Day08/ArticleManager
+	url = https://github.com/msnazarow-Swift-42piscine/ArticleManager
 [submodule "SwiftPiscine.Day09/PersonalDiary"]
 	path = SwiftPiscine.Day09/PersonalDiary
-	url = ./SwiftPiscine.Day09/PersonalDiary
+	url = https://github.com/msnazarow-Swift-42piscine/PersonalDiary
 [submodule "SwiftPiscine.Rush00/Intra21_pass"]
 	path = SwiftPiscine.Rush00/Intra21_pass
-	url = ./SwiftPiscine.Rush00/Intra21_pass
+	url = https://github.com/msnazarow-Swift-42piscine/Events42
 [submodule "SwiftPiscine.Rush01/Rush01"]
 	path = SwiftPiscine.Rush01/Rush01
-	url = ./SwiftPiscine.Rush01/Rush01
+	url = https://github.com/msnazarow-Swift-42piscine/MapRoutes
