@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:SwiftPiscine.Day04/MiniTwitter/MiniTwitter.xcodeproj">
-   </FileRef>
    <Group
       location = "group:SwiftPiscine.Day00"
       name = "SwiftPiscine.Day00">
@@ -13,53 +10,6 @@
          <Group
             location = "group:HelloWorld"
             name = "HelloWorld">
-            <Group
-               location = "group:HelloWorld"
-               name = "HelloWorld">
-               <FileRef
-                  location = "group:ViewController.swift">
-               </FileRef>
-               <Group
-                  location = "group:Assets.xcassets"
-                  name = "Assets.xcassets">
-                  <Group
-                     location = "group:AppIcon.appiconset"
-                     name = "AppIcon.appiconset">
-                     <FileRef
-                        location = "group:Contents.json">
-                     </FileRef>
-                  </Group>
-                  <Group
-                     location = "group:AccentColor.colorset"
-                     name = "AccentColor.colorset">
-                     <FileRef
-                        location = "group:Contents.json">
-                     </FileRef>
-                  </Group>
-                  <FileRef
-                     location = "group:Contents.json">
-                  </FileRef>
-               </Group>
-               <Group
-                  location = "group:Base.lproj"
-                  name = "Base.lproj">
-                  <FileRef
-                     location = "group:LaunchScreen.storyboard">
-                  </FileRef>
-                  <FileRef
-                     location = "group:Main.storyboard">
-                  </FileRef>
-               </Group>
-               <FileRef
-                  location = "group:AppDelegate.swift">
-               </FileRef>
-               <FileRef
-                  location = "group:Info.plist">
-               </FileRef>
-               <FileRef
-                  location = "group:SceneDelegate.swift">
-               </FileRef>
-            </Group>
             <FileRef
                location = "group:HelloWorld.xcodeproj">
             </FileRef>
@@ -71,53 +21,6 @@
          <Group
             location = "group:HelloWorld"
             name = "HelloWorld">
-            <Group
-               location = "group:HelloWorld"
-               name = "HelloWorld">
-               <FileRef
-                  location = "group:ViewController.swift">
-               </FileRef>
-               <Group
-                  location = "group:Assets.xcassets"
-                  name = "Assets.xcassets">
-                  <Group
-                     location = "group:AppIcon.appiconset"
-                     name = "AppIcon.appiconset">
-                     <FileRef
-                        location = "group:Contents.json">
-                     </FileRef>
-                  </Group>
-                  <Group
-                     location = "group:AccentColor.colorset"
-                     name = "AccentColor.colorset">
-                     <FileRef
-                        location = "group:Contents.json">
-                     </FileRef>
-                  </Group>
-                  <FileRef
-                     location = "group:Contents.json">
-                  </FileRef>
-               </Group>
-               <Group
-                  location = "group:Base.lproj"
-                  name = "Base.lproj">
-                  <FileRef
-                     location = "group:LaunchScreen.storyboard">
-                  </FileRef>
-                  <FileRef
-                     location = "group:Main.storyboard">
-                  </FileRef>
-               </Group>
-               <FileRef
-                  location = "group:AppDelegate.swift">
-               </FileRef>
-               <FileRef
-                  location = "group:Info.plist">
-               </FileRef>
-               <FileRef
-                  location = "group:SceneDelegate.swift">
-               </FileRef>
-            </Group>
             <FileRef
                location = "group:HelloWorld.xcodeproj">
             </FileRef>
@@ -132,9 +35,1393 @@
       <Group
          location = "group:ex02"
          name = "ex02">
+         <FileRef
+            location = "group:Calculator.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Day01"
+      name = "SwiftPiscine.Day01">
+      <Group
+         location = "group:Day01"
+         name = "Day01">
+         <FileRef
+            location = "group:Day01.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Day02"
+      name = "SwiftPiscine.Day02">
+      <FileRef
+         location = "group:SwiftPiscine.Day02.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Day03"
+      name = "SwiftPiscine.Day03">
+      <FileRef
+         location = "group:SwiftPiscine.Day03.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Day04"
+      name = "SwiftPiscine.Day04">
+      <Group
+         location = "group:MiniTwitter"
+         name = "MiniTwitter">
+         <FileRef
+            location = "group:MiniTwitter.xcodeproj">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:keys">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Day05"
+      name = "SwiftPiscine.Day05">
+      <Group
+         location = "group:MiniMap"
+         name = "MiniMap">
+         <FileRef
+            location = "group:MiniMap.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Day06"
+      name = "SwiftPiscine.Day06">
+      <Group
+         location = "group:DynamicShapes"
+         name = "DynamicShapes">
+         <FileRef
+            location = "group:DynamicShapes.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Day07"
+      name = "SwiftPiscine.Day07">
+      <Group
+         location = "group:WeatherAppBot"
+         name = "WeatherAppBot">
+         <FileRef
+            location = "group:WeatherAppBot.xcworkspace">
+         </FileRef>
          <Group
-            location = "group:Calculator"
-            name = "Calculator">
+            location = "group:Pods"
+            name = "Pods">
+            <FileRef
+               location = "group:Pods.xcodeproj">
+            </FileRef>
+            <Group
+               location = "group:Alamofire"
+               name = "Alamofire">
+               <FileRef
+                  location = "group:LICENSE">
+               </FileRef>
+               <Group
+                  location = "group:Source"
+                  name = "Source">
+                  <FileRef
+                     location = "group:TaskDelegate.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MultipartFormData.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NetworkReachabilityManager.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Timeline.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DispatchQueue+Alamofire.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Result.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ParameterEncoding.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AFError.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Validation.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Notifications.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Response.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Alamofire.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Request.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SessionManager.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ResponseSerialization.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ServerTrustPolicy.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SessionDelegate.swift">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:README.md">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Target Support Files"
+               name = "Target Support Files">
+               <Group
+                  location = "group:Pods-WeatherAppBot"
+                  name = "Pods-WeatherAppBot">
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-frameworks-Release-output-files.xcfilelist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-frameworks-Debug-output-files.xcfilelist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-frameworks.sh">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-dummy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-frameworks-Release-input-files.xcfilelist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-acknowledgements.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-frameworks-Debug-input-files.xcfilelist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Pods-WeatherAppBot-acknowledgements.markdown">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Alamofire"
+                  name = "Alamofire">
+                  <FileRef
+                     location = "group:Alamofire.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Alamofire-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Alamofire-dummy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Alamofire.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Alamofire-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Alamofire.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Alamofire-prefix.pch">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:SnapKit"
+                  name = "SnapKit">
+                  <FileRef
+                     location = "group:SnapKit-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SnapKit.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SnapKit-prefix.pch">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SnapKit.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SnapKit.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SnapKit-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SnapKit-dummy.m">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:JSQMessagesViewController"
+                  name = "JSQMessagesViewController">
+                  <FileRef
+                     location = "group:JSQMessagesViewController-dummy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQMessagesViewController.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQMessagesViewController-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQMessagesViewController-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQMessagesViewController.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQMessagesViewController-prefix.pch">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQMessagesViewController.modulemap">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:RecastAI"
+                  name = "RecastAI">
+                  <FileRef
+                     location = "group:RecastAI-dummy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RecastAI.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RecastAI-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RecastAI.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RecastAI.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RecastAI-prefix.pch">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RecastAI-umbrella.h">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:ForecastIO"
+                  name = "ForecastIO">
+                  <FileRef
+                     location = "group:ForecastIO-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ForecastIO.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ForecastIO-dummy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ForecastIO-prefix.pch">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ForecastIO.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ForecastIO.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ForecastIO-Info.plist">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:ObjectMapper"
+                  name = "ObjectMapper">
+                  <FileRef
+                     location = "group:ObjectMapper-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ObjectMapper.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ObjectMapper-prefix.pch">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ObjectMapper.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ObjectMapper.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ObjectMapper-Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ObjectMapper-dummy.m">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:JSQSystemSoundPlayer"
+                  name = "JSQSystemSoundPlayer">
+                  <FileRef
+                     location = "group:JSQSystemSoundPlayer-umbrella.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQSystemSoundPlayer-dummy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQSystemSoundPlayer.debug.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQSystemSoundPlayer.release.xcconfig">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQSystemSoundPlayer.modulemap">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQSystemSoundPlayer-prefix.pch">
+                  </FileRef>
+                  <FileRef
+                     location = "group:JSQSystemSoundPlayer-Info.plist">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:Manifest.lock">
+            </FileRef>
+            <Group
+               location = "group:SnapKit"
+               name = "SnapKit">
+               <FileRef
+                  location = "group:LICENSE">
+               </FileRef>
+               <Group
+                  location = "group:Source"
+                  name = "Source">
+                  <FileRef
+                     location = "group:ConstraintMultiplierTarget.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:LayoutConstraintItem.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintDescription.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintMakerPriortizable.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintAttributes.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintViewDSL.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintPriorityTarget.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintInsets.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintMakerFinalizable.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintDSL.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintMakerExtendable.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintPriority.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintInsetTarget.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintConfig.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UILayoutSupport+Extensions.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintView.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintLayoutGuide.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintLayoutSupport.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Typealiases.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintConstantTarget.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintOffsetTarget.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintMakerEditable.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintMaker.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintRelation.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintLayoutGuideDSL.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintView+Extensions.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintItem.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Constraint.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Debugging.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintRelatableTarget.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:LayoutConstraint.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintLayoutGuide+Extensions.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintLayoutSupportDSL.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ConstraintMakerRelatable.swift">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:README.md">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:JSQMessagesViewController"
+               name = "JSQMessagesViewController">
+               <FileRef
+                  location = "group:LICENSE">
+               </FileRef>
+               <Group
+                  location = "group:JSQMessagesViewController"
+                  name = "JSQMessagesViewController">
+                  <Group
+                     location = "group:Layout"
+                     name = "Layout">
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewFlowLayoutInvalidationContext.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewLayoutAttributes.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesBubblesSizeCalculator.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQAudioMediaViewAttributes.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewFlowLayout.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewFlowLayoutInvalidationContext.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQAudioMediaViewAttributes.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesBubblesSizeCalculator.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewLayoutAttributes.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesBubbleSizeCalculating.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewFlowLayout.m">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:JSQMessages.h">
+                  </FileRef>
+                  <Group
+                     location = "group:Factories"
+                     name = "Factories">
+                     <FileRef
+                        location = "group:JSQMessagesToolbarButtonFactory.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesBubbleImageFactory.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesAvatarImageFactory.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesTimestampFormatter.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesMediaViewBubbleImageMasker.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesAvatarImageFactory.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesBubbleImageFactory.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesToolbarButtonFactory.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesTimestampFormatter.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesMediaViewBubbleImageMasker.m">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Model"
+                     name = "Model">
+                     <FileRef
+                        location = "group:JSQLocationMediaItem.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesBubbleImage.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQAudioMediaItem.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessage.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewDelegateFlowLayout.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesAvatarImage.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQPhotoMediaItem.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewDataSource.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQVideoMediaItem.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessageBubbleImageDataSource.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMediaItem.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessageMediaData.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessageData.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQAudioMediaItem.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQLocationMediaItem.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesBubbleImage.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQPhotoMediaItem.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesAvatarImage.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessage.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMediaItem.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQVideoMediaItem.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessageAvatarImageDataSource.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Controllers"
+                     name = "Controllers">
+                     <FileRef
+                        location = "group:JSQMessagesViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesKeyboardController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesKeyboardController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesViewController.xib">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesViewController.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Views"
+                     name = "Views">
+                     <FileRef
+                        location = "group:JSQMessagesComposerTextView.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesLoadEarlierHeaderView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesToolbarContentView.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesLabel.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesMediaPlaceholderView.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesTypingIndicatorFooterView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesInputToolbar.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewCellIncoming.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesLoadEarlierHeaderView.xib">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewCell.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCellTextView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewCellOutgoing.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewCellOutgoing.xib">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesTypingIndicatorFooterView.xib">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesInputToolbar.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewCellIncoming.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesTypingIndicatorFooterView.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesToolbarContentView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesMediaPlaceholderView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesLabel.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesLoadEarlierHeaderView.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesComposerTextView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCellTextView.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesToolbarContentView.xib">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewCell.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionView.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewCellOutgoing.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQMessagesCollectionViewCellIncoming.xib">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Assets"
+                     name = "Assets">
+                     <FileRef
+                        location = "group:JSQMessagesAssets.bundle">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Categories"
+                     name = "Categories">
+                     <FileRef
+                        location = "group:NSString+JSQMessages.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:UIImage+JSQMessages.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:UIColor+JSQMessages.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:UIView+JSQMessages.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:UIDevice+JSQMessages.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQSystemSoundPlayer+JSQMessages.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:NSBundle+JSQMessages.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:NSString+JSQMessages.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:UIColor+JSQMessages.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:UIImage+JSQMessages.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:UIView+JSQMessages.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:NSBundle+JSQMessages.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQSystemSoundPlayer+JSQMessages.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:UIDevice+JSQMessages.m">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:README.md">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:RecastAI"
+               name = "RecastAI">
+               <Group
+                  location = "group:Pod"
+                  name = "Pod">
+                  <Group
+                     location = "group:Classes"
+                     name = "Classes">
+                     <FileRef
+                        location = "group:ConverseResponse.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:RecastAI.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Response.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Intent.swift">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:LICENSE">
+               </FileRef>
+               <FileRef
+                  location = "group:README.md">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:ForecastIO"
+               name = "ForecastIO">
+               <FileRef
+                  location = "group:LICENSE">
+               </FileRef>
+               <Group
+                  location = "group:Source"
+                  name = "Source">
+                  <FileRef
+                     location = "group:Forecast.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ForecastIOError.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Language.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Alert.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Units.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Icon.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DataBlock.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Precipitation.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RequestMetadata.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DataPoint.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Flag.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DarkSkyClient.swift">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:README.md">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:ObjectMapper"
+               name = "ObjectMapper">
+               <FileRef
+                  location = "group:LICENSE">
+               </FileRef>
+               <Group
+                  location = "group:Sources"
+                  name = "Sources">
+                  <FileRef
+                     location = "group:Mappable.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:CustomDateFormatTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:HexColorTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ISO8601DateTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:URLTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSDecimalNumberTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Operators.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:EnumOperators.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:EnumTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DataTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Mapper.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Map.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:FromJSON.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DictionaryTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TransformOperators.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:CodableTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ImmutableMappable.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:IntegerOperators.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TransformType.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MapError.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DateTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DateFormatterTransform.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ToJSON.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TransformOf.swift">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:README-CN.md">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:JSQSystemSoundPlayer"
+               name = "JSQSystemSoundPlayer">
+               <FileRef
+                  location = "group:LICENSE">
+               </FileRef>
+               <FileRef
+                  location = "group:README.md">
+               </FileRef>
+               <Group
+                  location = "group:JSQSystemSoundPlayer"
+                  name = "JSQSystemSoundPlayer">
+                  <Group
+                     location = "group:Classes"
+                     name = "Classes">
+                     <FileRef
+                        location = "group:JSQSystemSoundPlayer.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:JSQSystemSoundPlayer.h">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+         </Group>
+         <Group
+            location = "group:WeatherAppBot"
+            name = "WeatherAppBot">
+            <FileRef
+               location = "group:ViewController.swift">
+            </FileRef>
+            <Group
+               location = "group:Contract"
+               name = "Contract">
+               <FileRef
+                  location = "group:WeatherAppBotContract.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Assets.xcassets"
+               name = "Assets.xcassets">
+               <Group
+                  location = "group:AppIcon.appiconset"
+                  name = "AppIcon.appiconset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:AccentColor.colorset"
+                  name = "AccentColor.colorset">
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Base.lproj"
+               name = "Base.lproj">
+               <FileRef
+                  location = "group:LaunchScreen.storyboard">
+               </FileRef>
+               <FileRef
+                  location = "group:Main.storyboard">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Components"
+               name = "Components">
+               <Group
+                  location = "group:UITableViewComponents"
+                  name = "UITableViewComponents">
+                  <Group
+                     location = "group:Cells"
+                     name = "Cells">
+                     <FileRef
+                        location = "group:CellModel.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Cell.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Sections"
+                     name = "Sections">
+                     <FileRef
+                        location = "group:SectionModel.swift">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:TableViewContract.swift">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:ModelRepresentableProtocol.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Extentions"
+               name = "Extentions">
+               <FileRef
+                  location = "group:UIWindow+Ext.swift">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:AppDelegate.swift">
+            </FileRef>
+            <Group
+               location = "group:Modules"
+               name = "Modules">
+               <Group
+                  location = "group:Chat"
+                  name = "Chat">
+                  <Group
+                     location = "group:Contract"
+                     name = "Contract">
+                     <FileRef
+                        location = "group:ChatContract.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Assembly"
+                     name = "Assembly">
+                     <FileRef
+                        location = "group:ChatAssembly.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Presenter"
+                     name = "Presenter">
+                     <FileRef
+                        location = "group:ChatPresenter.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:View"
+                     name = "View">
+                     <FileRef
+                        location = "group:ChatViewController.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Interactor"
+                     name = "Interactor">
+                     <FileRef
+                        location = "group:ChatInteractor.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Router"
+                     name = "Router">
+                     <FileRef
+                        location = "group:ChatRouter.swift">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <Group
+               location = "group:Services"
+               name = "Services">
+               <FileRef
+                  location = "group:DarkSkyAPIService.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:RecastAIService.swift">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:SceneDelegate.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Podfile">
+         </FileRef>
+         <FileRef
+            location = "group:WeatherAppBot.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Podfile.lock">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Day08"
+      name = "SwiftPiscine.Day08">
+      <Group
+         location = "group:ArticleManager"
+         name = "ArticleManager">
+         <FileRef
+            location = "group:_Pods.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <Group
+            location = "group:Example"
+            name = "Example">
+            <Group
+               location = "group:Tests"
+               name = "Tests">
+               <FileRef
+                  location = "group:Tests.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:sgertrud2021.xcodeproj">
+            </FileRef>
+            <Group
+               location = "group:sgertrud2021"
+               name = "sgertrud2021">
+               <Group
+                  location = "group:Contract"
+                  name = "Contract">
+                  <FileRef
+                     location = "group:sgertrud2021Contract.swift">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Base.lproj"
+                  name = "Base.lproj">
+                  <FileRef
+                     location = "group:LaunchScreen.xib">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Components"
+                  name = "Components">
+                  <Group
+                     location = "group:UITableViewComponents"
+                     name = "UITableViewComponents">
+                     <Group
+                        location = "group:Cells"
+                        name = "Cells">
+                        <FileRef
+                           location = "group:CellModel.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Cell.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Sections"
+                        name = "Sections">
+                        <FileRef
+                           location = "group:SectionModel.swift">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:TableViewContract.swift">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:ModelRepresentableProtocol.swift">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Extentions"
+                  name = "Extentions">
+                  <FileRef
+                     location = "group:UIWindow+Ext.swift">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Images.xcassets"
+                  name = "Images.xcassets">
+                  <Group
+                     location = "group:AppIcon.appiconset"
+                     name = "AppIcon.appiconset">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:AppDelegate.swift">
+               </FileRef>
+               <Group
+                  location = "group:Modules"
+                  name = "Modules">
+                  <Group
+                     location = "group:Test"
+                     name = "Test">
+                     <Group
+                        location = "group:Contract"
+                        name = "Contract">
+                        <FileRef
+                           location = "group:TestContract.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Assembly"
+                        name = "Assembly">
+                        <FileRef
+                           location = "group:TestAssembly.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Presenter"
+                        name = "Presenter">
+                        <FileRef
+                           location = "group:TestPresenterDataSource.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:TestPresenter.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:View"
+                        name = "View">
+                        <FileRef
+                           location = "group:TestViewController.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Interactor"
+                        name = "Interactor">
+                        <FileRef
+                           location = "group:TestInteractor.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Router"
+                        name = "Router">
+                        <FileRef
+                           location = "group:TestRouter.swift">
+                        </FileRef>
+                     </Group>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Podfile">
+            </FileRef>
+            <FileRef
+               location = "group:Podfile.lock">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <FileRef
+            location = "group:sgertrud2021.podspec">
+         </FileRef>
+         <Group
+            location = "group:sgertrud2021"
+            name = "sgertrud2021">
+            <Group
+               location = "group:Classes"
+               name = "Classes">
+               <FileRef
+                  location = "group:Article+CoreDataProperties.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Article+CoreDataClass.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ArticleManager.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Extentions"
+               name = "Extentions">
+               <FileRef
+                  location = "group:String+Ext.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:NSPersistentContainer+Ext.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Assets"
+               name = "Assets">
+               <FileRef
+                  location = "group:article.xcdatamodeld">
+               </FileRef>
+            </Group>
+         </Group>
+      </Group>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Day09"
+      name = "SwiftPiscine.Day09">
+      <Group
+         location = "group:PersonalDiary"
+         name = "PersonalDiary">
+         <FileRef
+            location = "group:PersonalDiary.xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Podfile">
+         </FileRef>
+         <Group
+            location = "group:PersonalDiary"
+            name = "PersonalDiary">
+            <Group
+               location = "group:Contract"
+               name = "Contract">
+               <FileRef
+                  location = "group:PersonalDiaryContract.swift">
+               </FileRef>
+            </Group>
             <Group
                location = "group:Assets.xcassets"
                name = "Assets.xcassets">
@@ -166,18 +1453,55 @@
             <Group
                location = "group:Components"
                name = "Components">
+               <Group
+                  location = "group:UITableViewComponents"
+                  name = "UITableViewComponents">
+                  <Group
+                     location = "group:Cells"
+                     name = "Cells">
+                     <FileRef
+                        location = "group:ArticleCell.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:CellModel.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Cell.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Sections"
+                     name = "Sections">
+                     <FileRef
+                        location = "group:SectionModel.swift">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:TableViewContract.swift">
+                  </FileRef>
+               </Group>
                <FileRef
-                  location = "group:CalculatorButton.swift">
+                  location = "group:ModelRepresentableProtocol.swift">
                </FileRef>
             </Group>
             <Group
                location = "group:Extentions"
                name = "Extentions">
                <FileRef
-                  location = "group:String+Ext.swift">
+                  location = "group:KeyboardLayoutConstraint.swift">
                </FileRef>
                <FileRef
-                  location = "group:UIColor+Ext.swift">
+                  location = "group:Date+Ext.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:UIWindow+Ext.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:ru.lproj"
+               name = "ru.lproj">
+               <FileRef
+                  location = "group:LaunchScreen.strings">
                </FileRef>
             </Group>
             <FileRef
@@ -187,48 +1511,149 @@
                location = "group:Modules"
                name = "Modules">
                <Group
-                  location = "group:Calculator"
-                  name = "Calculator">
+                  location = "group:Diary"
+                  name = "Diary">
                   <Group
                      location = "group:Contract"
                      name = "Contract">
                      <FileRef
-                        location = "group:CalculatorContract.swift">
+                        location = "group:DiaryContract.swift">
                      </FileRef>
                   </Group>
                   <Group
                      location = "group:Assembly"
                      name = "Assembly">
                      <FileRef
-                        location = "group:CalculatorAssembly.swift">
+                        location = "group:DiaryAssembly.swift">
                      </FileRef>
                   </Group>
                   <Group
                      location = "group:Presenter"
                      name = "Presenter">
                      <FileRef
-                        location = "group:CalculatorPresenter.swift">
+                        location = "group:DiaryPresenterDataSource.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:DiaryPresenter.swift">
                      </FileRef>
                   </Group>
                   <Group
                      location = "group:View"
                      name = "View">
                      <FileRef
-                        location = "group:CalculatorViewController.swift">
+                        location = "group:DiaryViewController.swift">
                      </FileRef>
                   </Group>
                   <Group
                      location = "group:Interactor"
                      name = "Interactor">
                      <FileRef
-                        location = "group:CalculatorInteractor.swift">
+                        location = "group:DiaryInteractor.swift">
                      </FileRef>
                   </Group>
                   <Group
                      location = "group:Router"
                      name = "Router">
                      <FileRef
-                        location = "group:CalculatorRouter.swift">
+                        location = "group:DiaryRouter.swift">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:Article"
+                  name = "Article">
+                  <Group
+                     location = "group:Contract"
+                     name = "Contract">
+                     <FileRef
+                        location = "group:ArticleContract.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Assembly"
+                     name = "Assembly">
+                     <FileRef
+                        location = "group:ArticleAssembly.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Presenter"
+                     name = "Presenter">
+                     <FileRef
+                        location = "group:ArticlePresenter.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:ArticlePresenterDataSource.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:View"
+                     name = "View">
+                     <FileRef
+                        location = "group:ArticleViewController.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Interactor"
+                     name = "Interactor">
+                     <FileRef
+                        location = "group:ArticleInteractor.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Router"
+                     name = "Router">
+                     <FileRef
+                        location = "group:ArticleRouter.swift">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:Authentification"
+                  name = "Authentification">
+                  <Group
+                     location = "group:Contract"
+                     name = "Contract">
+                     <FileRef
+                        location = "group:AuthentificationContract.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Assembly"
+                     name = "Assembly">
+                     <FileRef
+                        location = "group:AuthentificationAssembly.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Presenter"
+                     name = "Presenter">
+                     <FileRef
+                        location = "group:AuthentificationPresenter.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AuthentificationPresenterDataSource.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:View"
+                     name = "View">
+                     <FileRef
+                        location = "group:AuthentificationViewController.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Interactor"
+                     name = "Interactor">
+                     <FileRef
+                        location = "group:AuthentificationInteractor.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Router"
+                     name = "Router">
+                     <FileRef
+                        location = "group:AuthentificationRouter.swift">
                      </FileRef>
                   </Group>
                </Group>
@@ -236,19 +1661,214 @@
             <FileRef
                location = "group:Info.plist">
             </FileRef>
+            <FileRef
+               location = "group:SceneDelegate.swift">
+            </FileRef>
          </Group>
          <FileRef
-            location = "group:Calculator.xcodeproj">
+            location = "group:Podfile.lock">
          </FileRef>
       </Group>
    </Group>
-   <FileRef
-      location = "group:../Day01/Day01.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:SwiftPiscine.Day02/SwiftPiscine.Day02.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:SwiftPiscine.Day03/SwiftPiscine.Day03.xcodeproj">
-   </FileRef>
+   <Group
+      location = "group:SwiftPiscine.Rush00"
+      name = "SwiftPiscine.Rush00">
+      <Group
+         location = "group:Intra21_pass"
+         name = "Intra21_pass">
+         <FileRef
+            location = "group:Events21.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:SwiftPiscine.Rush01"
+      name = "SwiftPiscine.Rush01">
+      <Group
+         location = "group:Rush01"
+         name = "Rush01">
+         <FileRef
+            location = "group:Rush01.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:Rush01"
+            name = "Rush01">
+            <Group
+               location = "group:Contract"
+               name = "Contract">
+               <FileRef
+                  location = "group:Rush01Contract.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:SupportedFiles"
+               name = "SupportedFiles">
+               <Group
+                  location = "group:Assets.xcassets"
+                  name = "Assets.xcassets">
+                  <Group
+                     location = "group:AppIcon.appiconset"
+                     name = "AppIcon.appiconset">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:AccentColor.colorset"
+                     name = "AccentColor.colorset">
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:Contents.json">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Base.lproj"
+                  name = "Base.lproj">
+                  <FileRef
+                     location = "group:LaunchScreen.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:AppDelegate.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneDelegate.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Components"
+               name = "Components">
+               <Group
+                  location = "group:UITableViewComponents"
+                  name = "UITableViewComponents">
+                  <Group
+                     location = "group:Cells"
+                     name = "Cells">
+                     <FileRef
+                        location = "group:CellModel.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Cell.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Sections"
+                     name = "Sections">
+                     <FileRef
+                        location = "group:SectionModel.swift">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:TableViewContract.swift">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:DesignableUITextField.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:ModelRepresentableProtocol.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Extentions"
+               name = "Extentions">
+               <FileRef
+                  location = "group:String+Ext.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:CLLocationCoordinate2D+Ext.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:UIWindow+Ext.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Modules"
+               name = "Modules">
+               <Group
+                  location = "group:Map"
+                  name = "Map">
+                  <Group
+                     location = "group:Contract"
+                     name = "Contract">
+                     <FileRef
+                        location = "group:MapContract.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Assembly"
+                     name = "Assembly">
+                     <FileRef
+                        location = "group:MapAssembly.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Presenter"
+                     name = "Presenter">
+                     <FileRef
+                        location = "group:MapPresenter.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MapPresenterDataSource.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:View"
+                     name = "View">
+                     <FileRef
+                        location = "group:MapViewController.swift">
+                     </FileRef>
+                     <Group
+                        location = "group:Base.lproj"
+                        name = "Base.lproj">
+                        <FileRef
+                           location = "group:Map.storyboard">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <Group
+                     location = "group:Interactor"
+                     name = "Interactor">
+                     <FileRef
+                        location = "group:MapInteractor.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Router"
+                     name = "Router">
+                     <FileRef
+                        location = "group:MapRouter.swift">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+            <Group
+               location = "group:Services"
+               name = "Services">
+               <FileRef
+                  location = "group:GooglePlaces.swift">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Entities"
+               name = "Entities">
+               <FileRef
+                  location = "group:Models.swift">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Podfile">
+         </FileRef>
+         <FileRef
+            location = "group:Podfile.lock">
+         </FileRef>
+      </Group>
+   </Group>
 </Workspace>
